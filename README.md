@@ -3,7 +3,7 @@ Certainly! Here's an updated version of your GitHub profile with plant symbols a
 # Hitesh MVS -  Data Science Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗-blue.svg)](https://www.linkedin.com/in/mvs-hitesh-699260247/)
-[![GitHub](https://img.shields.io/badge/GitHub-🐙-black.svg)](https://github.com/hiteshmvs)
+[![GitHub](https://img.shields.io/badge/GitHub-🐙-black.svg)](https://github.com/Hitesh-MVS)
 
 👋 Welcome to my GitHub profile! I am Hitesh MVS, a passionate student pursuing Electronics and Communication Engineering (CPS) at SASTRA Deemed University, with a keen interest in Data Science and Analytics.
 
